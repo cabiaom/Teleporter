@@ -15,6 +15,7 @@
 		CF73C9651C435878003DF161 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF73C9631C435878003DF161 /* LaunchScreen.storyboard */; };
 		CF73C9701C435878003DF161 /* TeleporterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF73C96F1C435878003DF161 /* TeleporterTests.swift */; };
 		CF73C97B1C435878003DF161 /* TeleporterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF73C97A1C435878003DF161 /* TeleporterUITests.swift */; };
+		CF73C9891C436881003DF161 /* a practice class.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF73C9881C436881003DF161 /* a practice class.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CF73C9761C435878003DF161 /* TeleporterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TeleporterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF73C97A1C435878003DF161 /* TeleporterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeleporterUITests.swift; sourceTree = "<group>"; };
 		CF73C97C1C435878003DF161 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF73C9881C436881003DF161 /* a practice class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "a practice class.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CF73C9611C435878003DF161 /* Assets.xcassets */,
 				CF73C9631C435878003DF161 /* LaunchScreen.storyboard */,
 				CF73C9661C435878003DF161 /* Info.plist */,
+				CF73C9881C436881003DF161 /* a practice class.swift */,
 			);
 			path = Teleporter;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				CF73C95D1C435878003DF161 /* SecondViewController.swift in Sources */,
 				CF73C9591C435878003DF161 /* AppDelegate.swift in Sources */,
 				CF73C95B1C435878003DF161 /* FirstViewController.swift in Sources */,
+				CF73C9891C436881003DF161 /* a practice class.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
